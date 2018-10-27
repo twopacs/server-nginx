@@ -1,0 +1,2 @@
+# server-nginx
+NGINX+PAGESPEED+PHP7.2+MARIADB
